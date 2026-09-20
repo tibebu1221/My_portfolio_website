@@ -211,7 +211,7 @@ img { max-width: 100%; display: block; }
 }
 .sec-title { font-size: clamp(2rem, 4vw, 2.8rem); font-weight: 800; color: var(--white); }
 
-/* ===== ABOUT ===== */
+/* ===== ABOUT =====
 .about-sec { background: var(--dark); }
 .about-grid { display: grid; grid-template-columns: 1fr 1.4fr; gap: 5rem; align-items: center; }
 .about-img-box {
@@ -220,7 +220,7 @@ img { max-width: 100%; display: block; }
 .about-img-box img, .about-fb {
     width: 100%; aspect-ratio: 4/5; object-fit: cover;
     border-radius: 20px; border: 2px solid var(--border);
-}
+}  */
 .about-fb {
     display: none; align-items: center; justify-content: center;
     background: var(--card); aspect-ratio: 4/5;
